@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#228B22</color>
+
+    <color name="colorPrimaryDarkg">#303F9F</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#DAA520</color>
+    <color name="colorLbg">#B9B2A9</color>
+
+    <!---
+    <color name="colorPrimary">#de6f59</color>
+
+    <color name="colorPrimaryDarkg">#303F9F</color>
+    <color name="colorPrimaryDark">#c86053 </color>
+    <color name="colorAccent">#df6761</color>
+    <color name="colorLbg">#B9B2A9</color>
+
+    <color name="test">#5999DE</color>
+    !-->
+</resources>

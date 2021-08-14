@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">thrift.ke</string>
+    <string name="title_home">Home</string>
+    <string name="title_official">News</string>
+    <string name="title_Shop">Shop</string>
+    <string name="action_search">Search produts</string>
+</resources>
